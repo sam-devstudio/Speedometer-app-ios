@@ -1,6 +1,6 @@
-# Support — Speedo
+# Speedo — GPS Speedometer: Support
 
-Need help with Speedo? Check the answers below, or contact us and we'll get back to you.
+Need help with Speedo — GPS Speedometer? Check the answers below, or contact us and we'll get back to you.
 
 ## Contact
 Email: [futureappsstudio99@gmail.com](mailto:futureappsstudio99@gmail.com)

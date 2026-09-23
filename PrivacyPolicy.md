@@ -1,8 +1,8 @@
-# Privacy Policy — Speedo
+# Speedo — GPS Speedometer: Privacy Policy
 
 *Effective date: [fill in before publishing]*
 
-Speedo ("the app") is developed by Future App Studio ("we", "us"). This policy explains what data the app collects and how it's used.
+Speedo — GPS Speedometer ("Speedo" or "the app") is developed by Future App Studio ("we", "us"). This policy explains what data the app collects and how it's used.
 
 ## Location data
 Speedo uses your device's GPS to calculate and display your current speed, both in the app and in the Dynamic Island / Lock Screen Live Activity. Location data is:

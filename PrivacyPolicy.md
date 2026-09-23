@@ -31,4 +31,4 @@ Speedo is not directed at children under 13 and does not knowingly collect perso
 We may update this policy from time to time. Material changes will be reflected by an updated effective date above.
 
 ## Contact
-Questions about this policy: [support email — fill in before publishing]
+Questions about this policy: [futureappsstudio99@gmail.com](mailto:futureappsstudio99@gmail.com)

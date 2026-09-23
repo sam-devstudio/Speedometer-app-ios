@@ -3,7 +3,7 @@
 Need help with Speedo? Check the answers below, or contact us and we'll get back to you.
 
 ## Contact
-Email: [support email — fill in before publishing]
+Email: [futureappsstudio99@gmail.com](mailto:futureappsstudio99@gmail.com)
 
 Please include your iPhone model, iOS version, and the Speedo version (shown on the App Store page) so we can help faster.
 

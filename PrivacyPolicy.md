@@ -1,6 +1,6 @@
 # Speedo — GPS Speedometer: Privacy Policy
 
-*Effective date: [fill in before publishing]*
+*Effective date: 23-Sept-2026*
 
 Speedo — GPS Speedometer ("Speedo" or "the app") is developed by Future App Studio ("we", "us"). This policy explains what data the app collects and how it's used.
 
